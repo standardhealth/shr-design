@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="235px" height="239px" viewBox="0 0 235 239" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="powerpnt" transform="translate(-678.000000, -304.000000)">
+            <g id="Group-3" transform="translate(688.000000, 309.000000)">
+                <path d="M47.5020693,27.3142698 C1.31054071,58.6082212 -13.5026105,120.758086 14.8328881,169.836609 C44.4833478,221.192712 110.152142,238.788612 161.508244,209.138152 C212.864347,179.487692 230.460247,113.818899 200.809788,62.462796 C197.971199,57.5462171 194.850796,53.0244261 191.506038,48.8744135" id="Oval-3-Copy-100" stroke="#8DD9C6" stroke-width="19"></path>
+                <text id="SHR-Copy-7" font-family="Avenir-Black, Avenir" font-size="76" font-weight="700" fill="#26858E">
+                    <tspan x="32.7278873" y="145.833397">SHR</tspan>
+                </text>
+                <path d="M143.998058,15.1996892 C112.327097,3.88180587 75.8353447,7.57389997 46.1883802,28.3329279 C-2.38808913,62.346538 -14.1936192,129.299026 19.8199909,177.875495 C53.8336009,226.451965 120.786089,238.257495 169.362558,204.243885 C217.939028,170.230275 220.924836,109.339502 210.151607,84.5230956" id="Oval-3-Copy-101" stroke="#26858E" stroke-width="19" stroke-linecap="round"></path>
+                <ellipse id="Oval-10-Copy-17" stroke="#26858E" stroke-width="11.5" cx="172.549024" cy="27.9597828" rx="27.1900528" ry="27.1900528"></ellipse>
+                <ellipse id="Oval-10-Copy-18" fill="#26858E" cx="172.991559" cy="28.3563576" rx="11.369757" ry="11.369757"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
