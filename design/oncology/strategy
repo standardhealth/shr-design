@@ -1,0 +1,71 @@
+SHR ONCOLOGY STRATEGY
+By Edwin Choi (edwin@goinvo.com), Juhan Sonin (juhan@goinvo.com)
+6.DEC.17
+
+
+STRATEGY SUMMARY
+==========
+
+The primary goal until February 2018, is to refine and demonstrate the collection and curation of real world oncology based data via the clinical use of Flux Notes. A design and plan for executing on the patient + clinician collaborative service will be ready by the February MITRE executive brief (28.Feb.18). The next phase will be to design and demonstrate a patient - clinician collaboration service to drive greater accuracy of oncology based data through use of patient touchpoints.
+
+## DESIGN GOALS (STRATEGY)
+**Deliver Flux Notes for ASCO/DFCI/iCare** 
+  Flux Notes Lite
+  Flux Notes Full
+  Data curation visualizations for at least 3 patients based on Flux Notes full designs
+
+**Collaborative care service**
+  Core oncology record for patients, mobile-based POS design with VUI interaction (such as Adverse Events, family history, PROs)
+  Core oncology record interaction and system
+  Design of a patient encounter data receipt
+
+**Jump-start the open source SHR design community**
+  Document the design approach/tenants/structure
+  Seed and engage with oncology care clinician user group 
+  Seed and engage with primary care clinician user group 
+  Seed and engage with patient user group
+  Incorporate user group + core view designs into SHR.org
+
+
+## DESIGN GOALS (TACTICAL + DELIVERABLES)
+**Deliver Flux Notes for ASCO/DFCI/iCare** 
+  Flux Notes Lite
+  Flux Notes Full
+    Collect feedback from the clinical user group
+    Refine the Flux Notes Full static design and concepts
+    Refine the Flux Notes Full prototype
+  Data curation visualizations for at least 3 patients based on Flux Notes full designs
+
+**Collaborative care service**
+  Core oncology record for patients
+    Explore different avenues for ensuring collection and curation of high quality data (remote mobile patient entered, disc format, pdf/paper. Future views like wearable sensors, genomic data, etc)
+    Identify what patient data is most needed in clinical trials but hard to get
+    Identify list of patient entered data: symptoms, family history, adverse events, etc
+    Design of the calculated insights based on inputted data
+    Design the patient facing data collection and curation service (mobile, VUI)
+  Core oncology record interaction and system
+    Service showing its relationship to MITRE open services
+    Workflow + storyboards for how data is collected and curated for higher quality
+  Design of a patient encounter data receipt
+    Workflow + storyboards for how patients receive insights from entered data
+
+**Jump-start the open source SHR design community**
+  Document the design approach/tenants/structure
+  Seed and engage with oncology care clinician user group 
+  Seed and engage with primary care clinician user group 
+  Seed and engage with patient user group
+  Incorporate user group + core view designs into SHR.org
+
+
+PROJECT KEY DATES
+Mid dec 2017 - sep 2018: monthly clinical user group is in session
+Jan 2018, estimate for getting patients into data curation study via DFCI
+Feb 28: presentation of the last 5 months of work within SHR oncology
+March 30: viz of data curation patients due
+March 30: flux notes full release 1 at pilot site
+
+
+TERMS
+Data map: A single list of truth for the dev + design team in terms of all the data elements + priority of those data elements that would populate a certain view of Flux Notes.
+Flux Notes workflow diagram: A diagram to show the interactions between the user needs/research + SHR data elements. Showing the steps in the clinical cognitive workflow and mapping the data elements on top, along with where Flux Notes is currently, and where it’s going in the future. 
+MITRE open health services map: A diagram showing all the open health services that MITRE is currently working on, or will develop in the future, and how they are connected to each other. For use in dissemination + internal strategy/discussion.  
