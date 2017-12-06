@@ -4,22 +4,21 @@ By Edwin Choi (edwin@goinvo.com), Juhan Sonin (juhan@goinvo.com)
 
 
 STRATEGY SUMMARY
-==========
 
 The primary goal until February 2018, is to refine and demonstrate the collection and curation of real world oncology based data via the clinical use of Flux Notes. A design and plan for executing on the patient + clinician collaborative service will be ready by the February MITRE executive brief (28.Feb.18). The next phase will be to design and demonstrate a patient - clinician collaboration service to drive greater accuracy of oncology based data through use of patient touchpoints.
 
-## DESIGN GOALS (STRATEGY)
-**Deliver Flux Notes for ASCO/DFCI/iCare** 
+DESIGN GOALS (STRATEGY)
+Deliver Flux Notes for ASCO/DFCI/iCare
   Flux Notes Lite
   Flux Notes Full
   Data curation visualizations for at least 3 patients based on Flux Notes full designs
 
-**Collaborative care service**
+Collaborative care service
   Core oncology record for patients, mobile-based POS design with VUI interaction (such as Adverse Events, family history, PROs)
   Core oncology record interaction and system
   Design of a patient encounter data receipt
 
-**Jump-start the open source SHR design community**
+Jump-start the open source SHR design community
   Document the design approach/tenants/structure
   Seed and engage with oncology care clinician user group 
   Seed and engage with primary care clinician user group 
@@ -27,8 +26,8 @@ The primary goal until February 2018, is to refine and demonstrate the collectio
   Incorporate user group + core view designs into SHR.org
 
 
-## DESIGN GOALS (TACTICAL + DELIVERABLES)
-**Deliver Flux Notes for ASCO/DFCI/iCare** 
+DESIGN GOALS (TACTICAL + DELIVERABLES)
+Deliver Flux Notes for ASCO/DFCI/iCare
   Flux Notes Lite
   Flux Notes Full
     Collect feedback from the clinical user group
@@ -36,7 +35,7 @@ The primary goal until February 2018, is to refine and demonstrate the collectio
     Refine the Flux Notes Full prototype
   Data curation visualizations for at least 3 patients based on Flux Notes full designs
 
-**Collaborative care service**
+Collaborative care service
   Core oncology record for patients
     Explore different avenues for ensuring collection and curation of high quality data (remote mobile patient entered, disc format, pdf/paper. Future views like wearable sensors, genomic data, etc)
     Identify what patient data is most needed in clinical trials but hard to get
@@ -49,7 +48,7 @@ The primary goal until February 2018, is to refine and demonstrate the collectio
   Design of a patient encounter data receipt
     Workflow + storyboards for how patients receive insights from entered data
 
-**Jump-start the open source SHR design community**
+Jump-start the open source SHR design community
   Document the design approach/tenants/structure
   Seed and engage with oncology care clinician user group 
   Seed and engage with primary care clinician user group 
