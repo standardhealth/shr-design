@@ -18,12 +18,14 @@
 - nlp
 - pos
 - assistant
-- context tray
+- context
+- shortcuts
 - style
 
 ## Versions ##
 Date | Version | Topics
 -| - | -
+4/27/18 | 13.7_context_screens | context, shortcuts
 4/20/18 | 13.6_loweringBurdenExpandedConcepts | autocomplete, nlp, pos, assistant, context tray
 4/13/18 | 13.5_contextTray | context tray
 4/11/18 | 13.4 | burden, workflow, autocomplete, nlp, pos, assistant 
