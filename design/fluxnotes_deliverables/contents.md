@@ -25,6 +25,7 @@
 ## Versions ##
 Date | Version | Topics
 -| - | -
+5/3/18 | medications_graphical_view | medications
 4/27/18 | 13.7_context_screens | context, shortcuts
 4/20/18 | 13.6_loweringBurdenExpandedConcepts | autocomplete, nlp, pos, assistant, context tray
 4/13/18 | 13.5_contextTray | context tray
