@@ -5,6 +5,8 @@
 - missing data 
 - tabular
 - medications
+- labs
+- toxicities
 - pre-encounter
 - search
 - filter
