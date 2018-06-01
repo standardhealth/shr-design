@@ -5,6 +5,7 @@
 - missing data 
 - tabular
 - medications
+- clinicalTrials
 - labs
 - toxicities
 - pre-encounter
@@ -27,6 +28,7 @@
 ## Versions ##
 Date | Version | Topics
 -| - | -
+6/1/18 | 14.2 | labs, toxicities, clinicalTrials
 5/25/18 | 14.1 | assistant, template, collaborative
 5/18/18 | 14_context | context
 5/11/18 | 13.9_contextAndMedications | context, medications
