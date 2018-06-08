@@ -7,6 +7,7 @@
 - medications
 - clinicalTrials
 - labs
+- templates
 - toxicities
 - pre-encounter
 - search
@@ -28,6 +29,7 @@
 ## Versions ##
 Date | Version | Topics
 -| - | -
+6/8/18 | 14.3 | assistant, templates, toxicities, clinicalTrials, labs, context
 6/1/18 | 14.2 | labs, toxicities, clinicalTrials
 5/25/18 | 14.1 | assistant, template, collaborative
 5/18/18 | 14_context | context
