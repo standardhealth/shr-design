@@ -30,6 +30,7 @@
 ## Versions ##
 Date | Version | Topics
 -| - | -
+6/22/18 | 14.5 | templates
 6/15/18 | 14.4 | templates, collaborative
 6/8/18 | 14.3 | assistant, templates, toxicities, clinicalTrials, labs, context
 6/1/18 | 14.2 | labs, toxicities, clinicalTrials
