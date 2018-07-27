@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="15px" viewBox="0 0 19 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>note - grey</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.8,-5.32907052e-15 L17.7,-5.44009282e-15 C18.1418278,-5.52125527e-15 18.5,0.3581722 18.5,0.8 L18.5,14.2 C18.5,14.6418278 18.1418278,15 17.7,15 L5.40229654,15 C5.17735013,15 4.96279756,14.9052954 4.81121379,14.7390929 L0.208917245,9.69295335 C0.0745090883,9.54558294 -3.41726479e-15,9.35331867 -3.44169138e-15,9.15386043 L-3.55271368e-15,0.8 C-3.60682198e-15,0.3581722 0.3581722,-5.46995267e-15 0.8,-5.55111512e-15 Z" id="path-1"></path>
+    </defs>
+    <g id="icon-export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-262.000000, -183.000000)">
+            <g id="note---grey" transform="translate(262.000000, 183.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <path stroke="#AAAAAA" stroke-width="1.4" d="M0.8,0.7 C0.744771525,0.7 0.7,0.744771525 0.7,0.8 L0.7,9.15386043 C0.7,9.17879271 0.709313636,9.20282574 0.726114656,9.22124704 L5.3284112,14.2673866 C5.34735917,14.2881619 5.37417824,14.3 5.40229654,14.3 L17.7,14.3 C17.7552285,14.3 17.8,14.2552285 17.8,14.2 L17.8,0.8 C17.8,0.744771525 17.7552285,0.7 17.7,0.7 L0.8,0.7 Z"></path>
+                <polygon id="Path-4" stroke="#AAAAAA" stroke-width="1.4" mask="url(#mask-2)" points="13 7.10542736e-15 19.0275862 6.02758621 13 6.02758621"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

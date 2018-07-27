@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>tray - POC unselected</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.892625882,0.540323654 L17.6926259,0.540323654 C18.1344537,0.540323654 18.4926259,0.898495854 18.4926259,1.34032365 L18.4926259,14.9403237 C18.4926259,15.3821515 18.1344537,15.7403237 17.6926259,15.7403237 L5.47207625,15.7403237 C5.24454253,15.7403237 5.0277735,15.6434358 4.87601371,15.4739054 L0.296563338,10.358215 C0.165237645,10.2115114 0.0926258818,10.0215301 0.0926258818,9.82463328 L0.0926258818,1.34032365 C0.0926258818,0.898495854 0.450798082,0.540323654 0.892625882,0.540323654 Z" id="path-1"></path>
+    </defs>
+    <g id="icon-export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-149.000000, -183.000000)">
+            <g id="tray---POC-unselected" transform="translate(149.000000, 183.000000)">
+                <g id="Group-5" transform="translate(0.753906, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <path stroke="#AAAAAA" stroke-width="1.4" d="M0.892625882,1.24032365 C0.837397407,1.24032365 0.792625882,1.28509518 0.792625882,1.34032365 L0.792625882,9.82463328 C0.792625882,9.84924538 0.801702352,9.87299305 0.818118064,9.89133099 L5.39756844,15.0070214 C5.41653841,15.0282127 5.44363454,15.0403237 5.47207625,15.0403237 L17.6926259,15.0403237 C17.7478544,15.0403237 17.7926259,14.9955521 17.7926259,14.9403237 L17.7926259,1.34032365 C17.7926259,1.28509518 17.7478544,1.24032365 17.6926259,1.24032365 L0.892625882,1.24032365 Z"></path>
+                    <polygon id="Path-4-Copy-11" stroke="#AAAAAA" stroke-width="1.4" mask="url(#mask-2)" points="12.7406255 1.00928917 18.7682117 7.03687538 12.7406255 7.03687538"></polygon>
+                    <path d="M13.0220445,5.83592194 L1.94428606,5.83592194" id="Line-11-Copy-23" stroke="#979797" stroke-width="1.4" opacity="0.6" stroke-linecap="square" mask="url(#mask-2)"></path>
+                    <path d="M17.627571,10.5859789 L1.94428606,10.5859789" id="Line-11-Copy-24" stroke="#979797" stroke-width="1.4" opacity="0.6" stroke-linecap="square" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

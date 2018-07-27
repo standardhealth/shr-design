@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="17px" viewBox="0 0 20 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>tray - poc selected</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.44768991,0.940585404 L18.2476899,0.940585404 C18.6895177,0.940585404 19.0476899,1.2987576 19.0476899,1.7405854 L19.0476899,15.3405854 C19.0476899,15.7824132 18.6895177,16.1405854 18.2476899,16.1405854 L6.02714028,16.1405854 C5.79960656,16.1405854 5.58283753,16.0436975 5.43107774,15.8741671 L0.851627366,10.7584767 C0.720301673,10.6117732 0.64768991,10.4217919 0.64768991,10.224895 L0.64768991,1.7405854 C0.64768991,1.2987576 1.00586211,0.940585404 1.44768991,0.940585404 Z" id="path-1"></path>
+    </defs>
+    <g id="icon-export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-187.000000, -182.000000)">
+            <g id="tray---poc-selected" transform="translate(187.000000, 182.000000)">
+                <g id="Group-3">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <path stroke="#FFFFFF" stroke-width="1.4" d="M1.44768991,1.6405854 C1.39246143,1.6405854 1.34768991,1.68535693 1.34768991,1.7405854 L1.34768991,10.224895 C1.34768991,10.2495071 1.35676638,10.2732548 1.37318209,10.2915927 L5.95263246,15.4072831 C5.97160244,15.4284744 5.99869857,15.4405854 6.02714028,15.4405854 L18.2476899,15.4405854 C18.3029184,15.4405854 18.3476899,15.3958139 18.3476899,15.3405854 L18.3476899,1.7405854 C18.3476899,1.68535693 18.3029184,1.6405854 18.2476899,1.6405854 L1.44768991,1.6405854 Z"></path>
+                    <polygon id="Path-4-Copy-4" stroke="#FFFFFF" stroke-width="1.4" mask="url(#mask-2)" points="13.2956895 1.40955092 19.3232757 7.43713713 13.2956895 7.43713713"></polygon>
+                    <path d="M13.5771086,6.23618369 L2.49935008,6.23618369" id="Line-11-Copy-7" stroke="#FFFFFF" stroke-width="1.4" opacity="0.6" stroke-linecap="square" mask="url(#mask-2)"></path>
+                    <path d="M18.1826351,10.9862406 L2.49935008,10.9862406" id="Line-11-Copy-8" stroke="#FFFFFF" stroke-width="1.4" opacity="0.6" stroke-linecap="square" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
