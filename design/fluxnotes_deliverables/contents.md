@@ -14,24 +14,25 @@
 - search
 - filter
 - vision
-- pos
+- pos / poc
 - burden
 - autocomplete
 - source
 - workflow
 - autocomplete
 - nlp
-- pos
 - assistant
 - context
 - shortcuts
 - style
 - accessibility
 - markup
+- footer
 
 ## Versions ##
 Date | Version | Topics
 -| - | -
+8/17/18 | 14.12 | poc, footer
 8/9/18 | 14.11 | markup
 8/3/18 | 14.10 | markup
 7/27/18 | 14.9 | templates, medications
