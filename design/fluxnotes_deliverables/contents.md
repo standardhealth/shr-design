@@ -28,10 +28,13 @@
 - accessibility
 - markup
 - footer
+- header
 
 ## Versions ##
 Date | Version | Topics
 -| - | -
+10/22/18 | 14.15 | header, filter
+10/12/18 | 14.14 | minimap, search, context 
 8/17/18 | 14.12 | poc, footer
 8/9/18 | 14.11 | markup
 8/3/18 | 14.10 | markup
