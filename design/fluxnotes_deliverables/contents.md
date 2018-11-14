@@ -29,10 +29,16 @@
 - markup
 - footer
 - header
+- ROS
+- vitals
+- treatment options
 
 ## Versions ##
 Date | Version | Topics
 -| - | -
+11/9/18 | 14.17_draft | labs, vitals
+11/7/18 | treatment_options_v2 | treatment options
+11/7/18 | 14.16 | ROS, POC, labs, vitals, source, style improvements
 10/22/18 | 14.15 | header, filter
 10/12/18 | 14.14 | minimap, search, context 
 8/17/18 | 14.12 | poc, footer
