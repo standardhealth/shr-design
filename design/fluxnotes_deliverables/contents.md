@@ -32,10 +32,15 @@
 - ROS
 - vitals
 - treatment options
+- numerical capture
+- minimap
 
 ## Versions ##
 Date | Version | Topics
 -| - | -
+11/27/18 | styleGuide_v4 | style
+11/20/18 | 15 | numerical capture, minimap, burden
+11/20/18 | treatment_options_v4 | treatment options
 11/9/18 | 14.17_draft | labs, vitals
 11/7/18 | treatment_options_v2 | treatment options
 11/7/18 | 14.16 | ROS, POC, labs, vitals, source, style improvements
