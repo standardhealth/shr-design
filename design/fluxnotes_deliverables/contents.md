@@ -1,43 +1,11 @@
 # GoInvo Deliverables Contents #
 
-## Topics ##
-- timeline
-- missing data 
-- tabular
-- collaborative
-- medications
-- clinicalTrials
-- labs
-- templates
-- toxicities
-- pre-encounter
-- search
-- filter
-- vision
-- pos / poc
-- burden
-- autocomplete
-- source
-- workflow
-- autocomplete
-- nlp
-- assistant
-- context
-- shortcuts
-- style
-- accessibility
-- markup
-- footer
-- header
-- ROS
-- vitals
-- treatment options
-- numerical capture
-- minimap
+
 
 ## Versions ##
 Date | Version | Topics
 -| - | -
+12/6/18 | 15.1 | hover, mobile, burden, poc, snippets
 11/27/18 | styleGuide_v4 | style
 11/20/18 | 15 | numerical capture, minimap, burden
 11/20/18 | treatment_options_v4 | treatment options
@@ -73,3 +41,41 @@ Date | Version | Topics
 3/16/18 | styles_v2 | style
 3/3/18 | 13_selected_concepts | pre-encounter, timeline, tabular, labs
 2/23/18 | 12.9_selected_concepts | timeline, missing data, tabular, medications
+
+## Tags ##
+- timeline
+- missing data 
+- tabular
+- collaborative
+- medications
+- clinicalTrials
+- labs
+- templates
+- toxicities
+- pre-encounter
+- search
+- filter
+- vision
+- pos / poc
+- burden
+- autocomplete
+- source
+- workflow
+- autocomplete
+- nlp
+- assistant
+- context
+- shortcuts
+- style
+- accessibility
+- markup
+- footer
+- header
+- ROS
+- vitals
+- treatment options
+- numerical capture
+- minimap
+- hover
+- mobile
+- snippets
