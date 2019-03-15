@@ -8,9 +8,12 @@ MVP:
 https://www.figma.com/proto/rLpubNAfrqV99exbLVFz5c/core-cancer-pilot?node-id=555%3A7550&viewport=2144%2C1261%2C0.5&scaling=min-zoom
 
 ## Documents ##
-Date | Version | Topics
-------
-continuous updates to online prototypes
+|Date | Version | Topics|
+|---|---|---|
+|3/13/19|prototype| summary, criteria selection includes patient record only
+|3/11/19|criteria_draft| draft ideas for criteria selection for MVP and Future, treatment for inadequate statistics counts
+|3/1/19|prototype| wording in options table
+|continuous| prototype| -
 1/9/19 | v7 | -
 12/31/18 | v6 | -
 12/19/18 | v5.1 | -
