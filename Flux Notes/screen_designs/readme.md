@@ -5,6 +5,7 @@
 ## Documents ##
 | Date | Version | Topics |
 | --- | --- | --- |
+| 3/22/19 | 16.1 | TDP, note authoring, labs, vitals
 | 3/14/19 | 16.0 (edited) | template workflow, medications, note authoring
 | 3/7/19 | 16.0 | template workflow, medications, note authoring
 | 2/28/19 | 15.5 (edited) | source, POC, ROS, note authoring, code search, keyboard
@@ -83,3 +84,4 @@
 - note authoring
 - code search
 - keyboard
+- TDP
