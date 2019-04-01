@@ -5,6 +5,7 @@
 ## Documents ##
 | Date | Version | Topics |
 | --- | --- | --- |
+| 4/1/19 | 16.3 | summary, TDP, labs, vitals
 | 3/29/19 | 16.2 | note authoring
 | 3/22/19 | 16.1 | TDP, note authoring, labs, vitals
 | 3/14/19 | 16.0 (edited) | template workflow, medications, note authoring
