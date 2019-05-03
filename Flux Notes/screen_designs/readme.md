@@ -5,6 +5,8 @@
 ## Documents ##
 | Date | Version | Topics |
 | --- | --- | --- |
+| 5/1/19 | 17.1(draft) | tablet
+| 4/26/19 | 17.1 | tablet
 | 4/23/19 | 17 | labs, vitals, clinical trials, derived values, medications
 | 4/5/19 | 16.4 | summary, TDP, labs, vitals, filter, timeline
 | 4/1/19 | 16.3 | summary, TDP, labs, vitals
