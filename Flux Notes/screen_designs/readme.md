@@ -5,6 +5,8 @@
 ## Documents ##
 | Date | Version | Topics |
 | --- | --- | --- |
+| 5/29/19 | 17.3 | labs, clinical trials
+| 5/19/19 | 17.2(edits) | tablet
 | 5/6/19 | 17.2 | tablet
 | 5/1/19 | 17.2(draft) | tablet
 | 4/26/19 | 17.1 | tablet
