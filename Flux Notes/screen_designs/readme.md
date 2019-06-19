@@ -5,6 +5,7 @@
 ## Documents ##
 | Date | Version | Topics |
 | --- | --- | --- |
+| 6/19/19 | 18.1 | selection styles, labs
 | 5/29/19 | 17.3 | labs, clinical trials
 | 5/19/19 | 17.2(edits) | tablet
 | 5/6/19 | 17.2 | tablet
