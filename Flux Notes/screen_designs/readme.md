@@ -5,6 +5,7 @@
 ## Documents ##
 | Date | Version | Topics |
 | --- | --- | --- |
+| 7/10/19 | 18.2 | missing parents, missing data
 | 6/19/19 | 18.1 | selection styles, labs
 | 5/29/19 | 17.3 | labs, clinical trials
 | 5/19/19 | 17.2(edits) | tablet
